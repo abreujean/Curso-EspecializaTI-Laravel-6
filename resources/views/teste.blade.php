@@ -10,6 +10,6 @@
     <!-- UTILIZAR ESSA IMPRESSÃO SOMENTE QUANTO NECESSAŔIO, DEIXA A APLICAÇÃO VUNERAVEL -->
     <!-- EXIBI TAGS HTML DIRETAMENTE -->
     <!--{!! $teste !!}-->
-    {{ $teste }}
+    {{ $teste }}	
 </body>
 </html>
